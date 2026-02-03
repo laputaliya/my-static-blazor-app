@@ -1,0 +1,82 @@
+```
+# Compiled and build artifacts
+*.exe
+*.dll
+*.so
+*.o
+*.obj
+*.out
+*.pdb
+*.ilk
+*.exp
+*.lib
+*.dylib
+*.class
+*.jar
+*.war
+*.ear
+obj/
+bin/
+Debug/
+Release/
+x64/
+x86/
+build/
+dist/
+out/
+
+# Dependencies
+node_modules/
+vendor/
+packages/
+lib/
+target/
+.gradle/
+.nuget/
+packages/
+**/packages/
+.vs/
+.vscode/
+.idea/
+.project
+.classpath
+.settings/
+
+# Logs and temp files
+*.log
+*.tmp
+*.temp
+*.cache
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# Environment
+.env
+.env.local
+.env.*
+!.env.example
+
+# User-specific files
+*.user
+*.userosscache
+*.suo
+*.csproj.user
+*.userprefs
+
+# OS generated files
+ehthumbs.db
+Icon?
+desktop.ini
+
+# Testing
+coverage/
+htmlcov/
+.coverage
+.nyc_output/
+istanbul/
+.mocha
+.jest/
+```
